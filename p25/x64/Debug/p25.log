@@ -1,0 +1,3 @@
+﻿  p25.cpp
+C:\Users\e4872\桌面\hw5\p25\p25.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  p25.vcxproj -> C:\Users\e4872\桌面\hw5\p25\x64\Debug\p25.exe

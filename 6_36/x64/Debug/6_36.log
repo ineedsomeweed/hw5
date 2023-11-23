@@ -1,0 +1,4 @@
+﻿  6_36.cpp
+C:\Users\e4872\桌面\hw5\6_36\6_36.cpp(13,13): warning C4566: character represented by universal-character-name '\uFF1A' cannot be represented in the current code page (1252)
+C:\Users\e4872\桌面\hw5\6_36\6_36.cpp(14,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  6_36.vcxproj -> C:\Users\e4872\桌面\hw5\6_36\x64\Debug\6_36.exe
